@@ -1,9 +1,17 @@
-# Prodigy Infotech Data Science Internship - Task 2
+# 📊 PRODIGY_DS_01 - Data Science Internship (Task-02)
 
-## Task Overview
-**Task-02** of the Prodigy Infotech Data Science Internship involved performing **data cleaning** and **exploratory data analysis (EDA)** on a dataset of your choice. The goal was to explore relationships between variables, identify patterns, and detect trends in the dataset.
+This repository contains my solution for **Task-02** assigned by **Prodigy InfoTech** as part of my **Data Science Internship**.  
 
-For this task, a **sample dataset** is provided here: [Task 2 Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202).
+---
+
+## 🚀 Task Description
+**Task-01:**  
+
+<img width="1472" height="828" alt="image" src="https://github.com/user-attachments/assets/4fd0f443-1521-4944-a150-fedf6539e8f0" />
+
+**Task-02** of the Prodigy Infotech Data Science Internship involved performing **data cleaning** and **exploratory data analysis (EDA)** on a dataset of your choice. The goal was to explore relationships between variables, identify patterns, and detect trends in the dataset.  
+
+🔗 [Sample Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202)
 
 ---
 
